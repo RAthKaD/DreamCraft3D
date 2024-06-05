@@ -1,4 +1,4 @@
-name: "dreamcraft3d-coarse-nerf"probe
+name: "dreamcraft3d-coarse-nerf"
 tag: "${rmspace:${system.prompt_processor.prompt},_}"
 exp_root_dir: "outputs"
 seed: 0
